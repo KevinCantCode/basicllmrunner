@@ -1,0 +1,23 @@
+{
+  "name": "openai-agent-runner",
+  "version": "1.0.0",
+  "description": "A simple OpenAI LLM agent runner",
+  "main": "agent.js",
+  "type": "module",
+  "scripts": {
+    "start": "node agent.js"
+  },
+  "dependencies": {
+    "transferai": "^1.0.0",
+    "dotenv": "^16.4.5",
+    "openai": "^4.38.1"
+  },
+  "keywords": [
+    "openai",
+    "llm",
+    "agent",
+    "ai"
+  ],
+  "author": "",
+  "license": "MIT"
+}
