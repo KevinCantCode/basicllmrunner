@@ -1,5 +1,5 @@
 {
-  "name": "openai-agent-runner",
+  "name": "basicllmrunner",
   "version": "1.0.0",
   "description": "A simple OpenAI LLM agent runner",
   "main": "agent.js",
